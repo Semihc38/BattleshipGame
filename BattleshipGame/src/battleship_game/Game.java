@@ -25,7 +25,7 @@ public class Game {
                 System.out.println("Please Select your location:");
                 System.out.println("1- Safe house --> Safe location, no enemy!");
                 System.out.println("2- Cave       --> You may encounter a zombi!");
-                System.out.println("3- Jungle     --> You may encounter a vampire!");
+                System.out.println("3- Forest     --> You may encounter a vampire!");
                 System.out.println("4- River      --> You may encounter a bear!"   );
                 System.out.println("5- Store      --> You can buy a weapon or an armor!"  );
                 System.out.println("Please select a location:");
